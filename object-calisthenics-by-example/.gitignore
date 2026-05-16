@@ -1,0 +1,9 @@
+# Gradle
+/.gradle/
+/build/
+
+# IntelliJ IDEA
+/.idea/*
+!/.idea/codeStyleSettings.xml
+!/.idea/fileTemplates/
+!/.idea/inspectionProfiles/
